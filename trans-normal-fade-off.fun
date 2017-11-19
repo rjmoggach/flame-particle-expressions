@@ -1,0 +1,1 @@
+transparency =sin(lifetimeI*1.5)

@@ -1,0 +1,1 @@
+speed = speed + cross( (power,power,power), turbulence3(pos,1)

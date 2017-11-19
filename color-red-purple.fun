@@ -1,0 +1,1 @@
+rgb = ((1,0,0)-(0,0,1))*smoothstep(0,1,lifetimeI))+(0,0,1)

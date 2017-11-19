@@ -1,0 +1,1 @@
+transparency = (1-lifetimeI)

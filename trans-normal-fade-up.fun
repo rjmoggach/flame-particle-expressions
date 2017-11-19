@@ -1,0 +1,1 @@
+transparency = cos(lifetimeI*1.5)

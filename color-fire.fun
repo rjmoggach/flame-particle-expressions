@@ -1,0 +1,1 @@
+rgb=(red*lifetimeI, green*pow(lifetimeI,2), 0)

@@ -1,0 +1,1 @@
+transparency = 1 - smoothstep(100,400, length(pos-(100,0,500))))

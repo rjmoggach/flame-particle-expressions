@@ -1,0 +1,1 @@
+transparency = ( ((1-lifetimeI)<power)*smoothstep(0,1,(1-lifetimeI)/power)) + (((1-lifetimeI)>=power)*smoothstep(0,1,lifetimeI/(1-damping)) )

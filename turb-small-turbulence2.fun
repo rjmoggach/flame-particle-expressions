@@ -1,0 +1,1 @@
+speed=speed*0.95+turbulence3((pos+(0,0,frame*20))* 0.01,1)

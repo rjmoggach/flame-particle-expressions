@@ -1,0 +1,1 @@
+transparency = transparency / sin(lifetimeI) * power

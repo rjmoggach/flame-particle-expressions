@@ -1,0 +1,1 @@
+transparency = -0.05(pow(tan((lifetimeI-0.5)/0.37, 2)) +1

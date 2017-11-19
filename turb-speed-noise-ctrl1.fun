@@ -1,0 +1,1 @@
+speed = speed + cross ((power, power, power), noise3(pos))

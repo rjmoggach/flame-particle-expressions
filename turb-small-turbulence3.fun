@@ -1,0 +1,1 @@
+speed = speed + (sin(lifetimeI/2 + 3*turbulence(pos,1)), sin(lifetimeI/2 + 3*turbulence(pos,1)), sin(lifetimeI/2 + 3*turbulence(pos,1)) )

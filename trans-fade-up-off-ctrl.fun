@@ -1,0 +1,1 @@
+transparency = -(magnitude*lifetimeI) (lifetimeI - 1)
